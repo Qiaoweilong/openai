@@ -1,0 +1,1 @@
+import{u as r,a0 as e}from"./entry.155d5b82.js";import{E as u}from"./lang.4a9029fb.js";const _=({data:a,error:s=!1})=>{const t=r(a),o=r(s);if(!t||o)throw e({statusCode:404,statusMessage:u,fatal:!0})};export{_ as u};
